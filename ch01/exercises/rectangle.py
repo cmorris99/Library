@@ -6,3 +6,4 @@ int_angle=((sides-2)*180)/sides
 ext_angle=360/sides
 print(int_angle)
 print(ext_angle)
+print("The internal angle for {shape} is ",int_angle)
